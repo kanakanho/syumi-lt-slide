@@ -605,7 +605,7 @@ Unwelcome School / ミツキヨ
 <div class="movie">
 <iframe
   width="800"
-  height="600"
+  height="500"
   src="https://embed.nicovideo.jp/watch/sm40875076"
   allowfullscreen
   scrolling="no"
