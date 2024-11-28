@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "marp -s .",
+    "marp": "marp index.md --html"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.0.3"
+  }
+}
