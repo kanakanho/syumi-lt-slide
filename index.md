@@ -130,8 +130,6 @@ marp: true
 
 <hr>
 
-愛知工業大学学部 2 年
-
 web フロント・XR やってます
 
 MetaQuest / VisionPro / webXR etc...
